@@ -1,34 +1,44 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> مرحباً! أنا عبد الملك لعريبي</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Abdelmalik Laribi</h1>
 
-<p>
-<b>Generalist Tech Explorer | Lifelong Learner | Tech Nomad</b> <br/>
-مستكشف تقني شغوف، لا أتوقف عند مجال واحد. أؤمن أن التقنية بحر واسع، وأنا أستمتع بالترحال بين أمواجه، من تأمين الأنظمة إلى استشراف مستقبل الويب 3.0.
+<p align="left">
+  <b>Generalist Tech Explorer | Lifelong Learner | Tech Nomad</b><br>
+  A tech enthusiast who doesn't believe in boundaries. I wander through the realms of <b>Cybersecurity</b>, <b>Blockchain</b>, <b>AI</b>, and <b>Web Ecosystems</b>. I don't just use tech; I track its soul and keep pace with its rapid evolution.
 </p>
 
 <p>
-📍 أعيش في مدينة الجسور المعلقة: <b>قسنطينة، الجزائر</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/>
+  📍 Based in the City of Bridges: <b>Constantine, Algeria</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/>
 </p>
 
 ---
 
-<h3>مجالات اهتمامي وتقنياتي المفضلة</h3>
+### 🛠 My Tech Radar (What I track & use)
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="CyberSecurity" src="https://img.shields.io/badge/-Cyber_Security-000000?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-311C87?style=flat-square&logo=ethereum&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-f39c12?style=flat-square&logo=gitbook&logoColor=white" />
-  <img alt="AI Enthusiast" src="https://img.shields.io/badge/-AI_Enthusiast-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Web Development" src="https://img.shields.io/badge/-Web_Generalist-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux_Explorer-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="CyberSecurity" src="https://img.shields.io/badge/-Cyber_Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-311C87?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/-AI_Trends-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-f39c12?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux_Explorer-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-<blockquote>
-  <b>💡 فلسفتي التقنية:</b> لست مجرد مطور، أنا "مستخدم متقدم" ومتابع نهم لأحدث الصيحات. إذا ظهرت تقنية جديدة اليوم، ستجدني أبحث عنها غداً!
-</blockquote>
 
 ---
 
-<h3>كيف تصل إليّ؟</h3>
+### 📊 GitHub Stats (Visual Flourish)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelmaliklarib&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmaliklarib&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔭 Current Focus
+- ⚡ **Exploring:** Autonomous AI Agents and Web3 Security.
+- 📚 **Learning:** Advanced Cryptographic Algorithms.
+- 🌍 **Mission:** Bridging the gap between diverse tech stacks.
+
+---
+
+### 📫 Connect with me
 <p>
   <a href="https://twitter.com/abdelmaliklarib" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />
@@ -46,13 +56,7 @@
 
 ---
 
-<h3>حالة الطقس في قسنطينة 🌉</h3>
-<p>
-بما أنني أعيش في مدينة الجسور، فالمزاج التقني يتأثر أحياناً بجمال الطبيعة هنا!<br/>
-<b>الحالة الحالية:</b> قسنطينة دائماً ترحب بالمستكشفين.
-</p>
-
 <p align="center">
-  <i>"التقنية لا تتوقف، وأنا كذلك."</i><br/>
-  <b>عبد الملك لعريبي</b>
+  <i>"The only constant in tech is change, and I'm here for the ride."</i><br>
+  <b>- Abdelmalik Laribi</b>
 </p>
