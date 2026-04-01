@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_94elkn94elkn94el.png" width="100%" />
+  <img src="Gemini_Generated_Image_94elkn94elkn94el.png" width="100%" style="border-radius: 15px; border: 2px solid #161B22;" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Exploring+the+Web3+World;Learning+Cyber+Security;Bridging+Tech+Gaps;Generalist+Tech+Nomad" alt="Typing SVG" />
+</p>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Abdelmalik Laribi</h1>
 
 <p align="left">
