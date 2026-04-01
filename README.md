@@ -2,7 +2,7 @@
 
 <p align="left">
   <b>Generalist Tech Explorer | Lifelong Learner | Tech Nomad</b><br>
-  A tech enthusiast who doesn't believe in boundaries. I wander through the realms of <b>Cybersecurity</b>, <b>Blockchain</b>, <b>AI</b>, and <b>Web Ecosystems</b>. I don't just use tech; I track its soul and keep pace with its rapid evolution.
+  A tech enthusiast who doesn't believe in boundaries. I wander through the realms of <b>Cybersecurity</b>, <b>Blockchain</b>, <b>AI</b>, and <b>Web Ecosystems</b>.
 </p>
 
 <p>
@@ -11,30 +11,40 @@
 
 ---
 
-### 🛠 My Tech Radar (What I track & use)
+### 🛠 Tech Stack & Interests
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="CyberSecurity" src="https://img.shields.io/badge/-Cyber_Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-311C87?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img alt="AI" src="https://img.shields.io/badge/-AI_Trends-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-f39c12?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux_Explorer-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Web" src="https://img.shields.io/badge/-Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats (Visual Flourish)
+### 📊 GitHub Activity Snapshot
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelmaliklarib&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmaliklarib&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdelmaliklaribi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmaliklaribi&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmaliklaribi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔭 Current Focus
-- ⚡ **Exploring:** Autonomous AI Agents and Web3 Security.
-- 📚 **Learning:** Advanced Cryptographic Algorithms.
-- 🌍 **Mission:** Bridging the gap between diverse tech stacks.
+### 🔭 Current Roadmap
+- ⚡ **Exploring:** The vast world of **Web 3.0** and modern **Web Technologies**.
+- 🛡️ **Learning:** Deep diving into **Cybersecurity** and digital forensics.
+- 🌍 **Mission:** Bridging the gap between diverse technologies and creating seamless integrations.
+
+---
+
+### ⚙️ Random Dev Fact
+<p align="left">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
@@ -54,9 +64,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"The only constant in tech is change, and I'm here for the ride."</i><br>
-  <b>- Abdelmalik Laribi</b>
+  <img src="https://komarev.com/ghpvc/?username=abdelmaliklaribi&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
