@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_94elkn94elkn94el.png" width="100%" />
+</p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Abdelmalik Laribi</h1>
 
 <p align="left">
