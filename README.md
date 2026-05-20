@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="Gemini_Generated_Image_94elkn94elkn94el.png" width="100%" style="border-radius: 15px; border: 2px solid #161B22;" />
 </p>
